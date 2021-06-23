@@ -1,0 +1,6 @@
+bsp_gui.c:52:19:BSP_GUI_LoadDataFromFlash	40	static
+bsp_gui.c:176:19:BSP_GUI_SaveDataInFlash	80	static,ignoring_inline_asm
+bsp_gui.c:302:26:SavePDOInFlash	72	static
+bsp_gui.c:330:26:SaveSettingsInFlash	88	static
+bsp_gui.c:365:26:LoadPDOFromFlash	32	static
+bsp_gui.c:384:26:LoadSettingsFromFlash	40	static

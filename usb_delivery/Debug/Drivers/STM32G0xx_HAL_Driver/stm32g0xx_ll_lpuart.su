@@ -1,0 +1,10 @@
+stm32g0xx_ll_lpuart.h:509:26:LL_LPUART_IsEnabled	16	static
+stm32g0xx_ll_lpuart.h:901:22:LL_LPUART_SetPrescaler	16	static
+stm32g0xx_ll_lpuart.h:938:22:LL_LPUART_SetStopBitsLength	16	static
+stm32g0xx_ll_lpuart.h:1242:22:LL_LPUART_SetHWFlowCtrl	16	static
+stm32g0xx_ll_lpuart.h:1354:22:LL_LPUART_SetBaudRate	64	static
+stm32g0xx_ll_bus.h:680:22:LL_APB1_GRP1_ForceReset	16	static
+stm32g0xx_ll_bus.h:748:22:LL_APB1_GRP1_ReleaseReset	16	static
+stm32g0xx_ll_lpuart.c:130:13:LL_LPUART_DeInit	24	static
+stm32g0xx_ll_lpuart.c:178:13:LL_LPUART_Init	32	static
+stm32g0xx_ll_lpuart.c:282:6:LL_LPUART_StructInit	16	static

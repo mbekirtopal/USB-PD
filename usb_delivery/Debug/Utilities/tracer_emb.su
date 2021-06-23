@@ -1,0 +1,16 @@
+tracer_emb.c:131:6:TRACER_EMB_Init	8	static
+tracer_emb.c:143:6:TRACER_EMB_Add	32	static
+tracer_emb.c:169:6:TRACER_EMB_IRQHandlerDMA	8	static
+tracer_emb.c:175:6:TRACER_EMB_IRQHandlerUSART	8	static
+tracer_emb.c:180:6:TRACER_EMB_WriteData	16	static
+tracer_emb.c:185:6:TRACER_EMB_StartRX	16	static
+tracer_emb.c:191:9:TRACER_EMB_EnableOverFlow	16	static
+tracer_emb.c:202:9:TRACER_EMB_ReadData	8	static
+tracer_emb.c:221:6:TRACER_EMB_CALLBACK_TX	24	static,ignoring_inline_asm
+tracer_emb.c:247:6:TRACER_EMB_Lock	24	static,ignoring_inline_asm
+tracer_emb.c:259:6:TRACER_EMB_UnLock	24	static,ignoring_inline_asm
+tracer_emb.c:272:6:TRACER_EMB_SendData	32	static,ignoring_inline_asm
+tracer_emb.c:323:9:TRACER_EMB_AllocateBufer	40	static,ignoring_inline_asm
+tracer_emb.c:364:13:TRACER_EMB_LowPowerInit	8	static
+tracer_emb.c:368:13:TRACER_EMB_LowPowerSendData	8	static
+tracer_emb.c:372:13:TRACER_EMB_LowPowerSendDataComplete	8	static
